@@ -1,0 +1,93 @@
+{
+    "workbench.startupEditor": "welcomePage",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "off",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "HookyQR.beautify",
+    },
+    "[scss]": {
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[vue]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "auto-close-tag.fullMode": true,
+    "auto-close-tag.SublimeText3Mode": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.packageManager": "yarn",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "npm-intellisense.importQuotes": "",
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "git.enabled": false,
+    "git.enableSmartCommit": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "workbench.editor.showTabs": true,
+    "editor.renderWhitespace": "none",
+    "material-icon-theme.folders.color": "#ef5350",
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "gitlens.hovers.currentLine.over": "line",
+    "material-icon-theme.activeIconPack": "react_redux",
+    "workbench.colorTheme": "Dracula",
+    "todohighlight.isEnable": true,
+    "todohighlight.keywords": [
+        {
+            "text": "section:",
+            "color": "red",
+            "backgroundColor": "BlanchedAlmond",
+        },
+        {
+            "text": "module:",
+            "color": "white",
+            "backgroundColor": "orange",
+        },
+        {
+            "text": "function:",
+            "color": "white",
+            "backgroundColor": "orange",
+            "overviewRulerColor": "black",
+        }
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "vue",
+            "autoFix": true
+        },
+    ],
+    "html-css-class-completion.enableScssFindUsage": true,
+    "editor.fontLigatures": true,
+    "debug.console.wordWrap": true,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestionsDelay": 0,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.colorCustomizations": {},
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.rendererType": "dom",
+    "editor.tabCompletion": "on",
+    "editor.fontSize": 17,
+    "prettier.tabWidth": 4,
+    "editor.detectIndentation": false
+}
